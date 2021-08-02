@@ -1,0 +1,2 @@
+*.(extensión de los archivos ) // Para ignorar TODOS los archivos con esa extensión
+nombredelarchivo.extensión // Para ignorar solo el archivo con ese nombre 
